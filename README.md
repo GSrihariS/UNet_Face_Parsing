@@ -1,4 +1,3 @@
-```markdown
 # Face Parsing using U-Net
 
 > [!IMPORTANT]
