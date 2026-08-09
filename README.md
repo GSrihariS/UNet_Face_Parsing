@@ -4,7 +4,7 @@
 > ## Academic Integrity
 >
 > This repository contains my implementation and work for an academic
-> course project at NTU.
+> course project at NTU Singapore.
 >
 > If you use any ideas, code, or material from this repository in an
 > academic submission, please provide appropriate attribution and citations
