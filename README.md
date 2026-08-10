@@ -65,9 +65,6 @@ Various configurations were evaluated including loss function, decoder design (u
 The final architecture was constrained to a parameter budget of
 approximately 1.82M parameters.
 
-## Experimental Results
-
-
 ## Final Model Results
 
 The final model achieved:
