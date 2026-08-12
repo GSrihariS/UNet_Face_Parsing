@@ -59,7 +59,7 @@ Various configurations were evaluated including loss function, decoder design (u
 - Learning Rate : 6e-4 (Starting), 1e-5 (Minimum)
 - Epochs : 250
 - Batch Size : 8
-- Feature-map scaling : [16, 32, 64, 128, 192] 
+- Feature-map scaling : [16, 32, 64, 128, 256] 
 - Dropout : p = 0.2 at bottleneck layer
 
 The final architecture was constrained to a parameter budget of
